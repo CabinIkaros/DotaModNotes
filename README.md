@@ -31,7 +31,7 @@
   - - [教程作者的一个文件家规范方式](https://github.com/Shushishtok/dota-reimagined/tree/master/game/resource/localization)
 
 ### 4. 技能
-
+- 一个不错的文章: https://robincode.cn/post/1fo32pl
 - [KV文件整理(不全)](./AbilityKV.md)
 - 获取技能等级 : Ability.GetLevel() - 从1开始
 - 获取KV文件AbilitySpecial块中的值
