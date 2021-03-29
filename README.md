@@ -62,6 +62,7 @@
 
 ### 7. UI
 
+- [Panorama 控件](https://avalonstudio.cn/docs/Dota2PanoramaPanels/Panel)
 - [Webpack设置](./WebpackSetting.md)
 
 ## Other
