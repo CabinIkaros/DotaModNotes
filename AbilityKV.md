@@ -32,5 +32,7 @@ DOTA2数据驱动文件字段: https://developer.valvesoftware.com/wiki/Dota_2_W
 13. Random - 最大单位指定后多选择几个随机单位,结合MaxTargets使用 : https://moddota.com/abilities/ability-keyvalues#limiting-the-amount-of-targets
 14. AbilityUnitDamageType - 伤害类型,类型为 `DAMAGE_TYPE`
 15. precache - 预缓存块
+16. SpellImmunityType - 技能免疫 `SPELL_IMMUNITY_ENEMIES_YES(可以对技能免疫单位使用)`, `SPELL_IMMUNITY_ENEMIES_NO(无法对技能免疫单位使用)`
+17. SpellDispellableType - 驱散类型 `SPELL_DISPELLABLE_NO(无法被驱散)` , `SPELL_DISPELLABLE_YES(可以被驱散)`, `SPELL_DISPELLABLE_YES_STRONG(只能被强驱散)`
 
 
